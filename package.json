@@ -1,0 +1,29 @@
+{
+  "name": "goodreads-reactjs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "history": "^4.10.1",
+    "mdbreact": "^4.23.0",
+    "react": "^16.5.2",
+    "react-autocomplete": "^1.8.1",
+    "react-autosuggest": "^9.4.3",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.5.2",
+    "react-dropdown-select": "^3.7.0",
+    "react-onclickoutside": "^6.9.0",
+    "react-router": "^5.1.2",
+    "react-scripts": "1.1.5",
+    "react-select-search": "^0.10.1",
+    "react-trend": "^1.2.5",
+    "redux": "^4.0.4",
+    "xml-js": "^1.6.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

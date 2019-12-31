@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(janees12.jpg) ;
+    
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+   
+}
+
+.btn btn-primary {
+    left: 30%;
+}
+p {
+    color: black;
+    align-items: center;
+}
+.suggestions {
+    border: 1px solid #999;
+    border-top-width: 10;
+    list-style: none;
+    margin-top: 0;
+    overflow-y: auto;
+    background-color: darkgray;
+    width: 500px;
+    padding-left: 0;
+    text-align: initial;
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+}
+.suggestions li {
+    padding: 0.5rem;
+    color: white;
+}
+.suggestions li:hover {
+    background-color: lightslategray;
+    color: #fae042;
+    cursor: pointer;
+    font-weight: 50px;
+}
+.Header {
+    background-color: darkgrey;
+    font-display: black;
+}
+.container {
+    text-align: -webkit-center;
+}
+.janees {
+    align-items: center;
+    width: inherit;
+}
+.Title {
+    color: black;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row>div[class*='col-'] {
+    display: flex;
+    text-align: start;
+}
+.card-janees {
+    display: grid;
+}
+.search {
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 50px;
+    background-color: #353b48;
+    border-radius: 30px;
+    padding: 10px;
+    width: 500px;
+    color: lightgrey;
+}
+.jinis {
+    HEIGHT: 50%;
+    width: 37%;
+    margin-right: 64%;
+}
+
+
+.text{
+    font-size: 4em;
+   font-family: ;
+    font-style: italic;
+  color:beige;    
+  font-family: initial;
+   font-variant: small-caps;
+   
+}
